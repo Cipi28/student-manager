@@ -1,4 +1,4 @@
-package loose.oose.fis.lab.student.manager;
+package loose.oose.fis.lab.student.manager.controllers;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
